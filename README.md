@@ -9,3 +9,8 @@ I started simple, with the prompts, and figured out how to have a confirm() prom
 I also needed to create a function to track how many characters the user wanted. This was difficult to figure out but eventually made a lot more sense once i completed it. I later added the else to repeat the function, making sure that the user can only select the desired values. 
 
 Adding the correct characters to correspond with the correct variables/prompts was the part that was the most difficult to wrap my head around. I had to search around for answers to eventually find the fromCharCode() command which lists all characters as a value. This method is definitely quite clean and saved me a lot of time creating my own array's with all the possible characters. This definitely started making a lot more sense in my head once the bulk of it was out of the way and I have a much better understanding of the logic of Javascript and how to organize functions. 
+
+Here is the link to the deployed application: https://robert-rousset.github.io/RobsWeek3Homework/
+
+Screenshot: ![Password Generator](./Assets/Password-Generator-Screenshot.png)
+
